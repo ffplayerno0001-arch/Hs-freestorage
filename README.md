@@ -114,4 +114,9 @@
   <div class="app">
     <h1 class="main-heading gradient-text">HS-FREE STORAGE</h1>
 
-    
+    <header class="topbar">
+      <div class="brand">
+        <div class="logo-sq">HS</div>
+        <span>HS Chat <small style="color:var(--muted)">| HISSAN SETHI</small></span>
+      </div>
+      <div id="sessionStatus"><span id="dot" class="status-dot"></
